@@ -53,10 +53,26 @@ Aplikacja posiada panel administracyjny umożliwiający:
 Zapraszam:
 https://dzikaspizarnia.pl
 
+---
 
+
+
+### Welcome Screen
 ![Welcome](wel.png)
+
+### Search
 ![Search](search.png)
-![Search Results](eesults.png)
+
+### Search Results
+![Search Results](results.png)
+
+### Recipes
 ![Recipes](recipes.png)
+
+### Seasonal Calendar
 ![Calendar](calendar.png)
+
+### Admin Dashboard
 ![Dashboard](dashboard.png)
+
+

@@ -51,4 +51,12 @@ Aplikacja posiada panel administracyjny umożliwiający:
 - analizę najczęściej wyszukiwanych haseł
 
 Zapraszam:
-https://dzikaspiżarnia.pl
+https://dzikaspizarnia.pl
+
+
+[Welcome](wel.png)
+[Search](search.png)
+[Search Results](eesults.png)
+[Recipes](recipes.png)
+[Calendar](calendar.png)
+[Dashboard](dashboard.png)

@@ -54,9 +54,9 @@ Zapraszam:
 https://dzikaspizarnia.pl
 
 
-[Welcome](wel.png)
-[Search](search.png)
-[Search Results](eesults.png)
-[Recipes](recipes.png)
-[Calendar](calendar.png)
-[Dashboard](dashboard.png)
+![Welcome](wel.png)
+![Search](search.png)
+![Search Results](eesults.png)
+![Recipes](recipes.png)
+![Calendar](calendar.png)
+![Dashboard](dashboard.png)

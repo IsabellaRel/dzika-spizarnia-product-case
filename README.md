@@ -64,7 +64,7 @@ https://dzikaspizarnia.pl
 ![Search](search.png)
 
 ### Search Results
-![Search Results](results.png)
+![Search Results](eesults.png)
 
 ### Recipes
 ![Recipes](recipes.png)
@@ -72,7 +72,7 @@ https://dzikaspizarnia.pl
 ### Seasonal Calendar
 ![Calendar](calendar.png)
 
-### Admin Dashboard
+### Dashboard
 ![Dashboard](dashboard.png)
 
 
